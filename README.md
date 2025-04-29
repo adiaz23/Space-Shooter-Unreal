@@ -12,7 +12,7 @@ The game mechanics are:
 2. Space ship controlled by the player.
 3. Three types of enemies.
 4. A HUD that shows the player's lives, progress, and the number of enemies killed.
-5. Two power ups: Space Ship Velocity Speed Up and Space Ship Fire Rate up.
+5. Two power ups: Space Ship Velocity Speed Up(Blue) and Space Ship Fire Rate up(Yellow).
 6. Different sounds effects for shooting, destroying, and collecting power ups.
 
 ## Controllers
