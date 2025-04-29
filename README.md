@@ -17,7 +17,7 @@ The game mechanics are:
 
 ## Controllers
 
-The Space ship can be controlled using either the arrow keys or the WASD keys. To shoot, press the spacebar.
+The Space ship can be controlled using either the arrow keys or the WASD keys. To shoot, press the spacebar. To quit the game, press Escape
 
 ## Assets
 
